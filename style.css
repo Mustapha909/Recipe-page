@@ -133,13 +133,13 @@ tr td {
   }
 }
 
-@media (max-width: 375px) {
+@media (max-width: 390px) {
   .main {
     display: flex;
     align-items: flex-start;
     justify-content: center;
     height: 1872px;
-    background-color: hsl(30, 54%, 90%);
+    background-color: hsl(0, 0%, 100%);
     font-family: 'Outfit', sans-serif;
     color: hsl(30, 10%, 34%);
     letter-spacing: 0;
